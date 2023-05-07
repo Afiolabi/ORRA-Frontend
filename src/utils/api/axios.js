@@ -1,7 +1,7 @@
 import axios from "axios";
 
 // const baseUrl = "https://foodapi-5k61.onrender.com";
-const baseUrl = "https://ojoolu-restaurants-review-api.onrender.com:10000";
+const baseUrl = "https://ojoolu-restaurants-review-api.onrender.com";
 
 export const apiGet = (path) => {
   const config = {
